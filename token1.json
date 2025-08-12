@@ -1,0 +1,22 @@
+{
+  "name": "CpX",
+  "symbol": "CpX",
+  "description": "CpX — stealth-gated Token-2022 token (devnet).",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  },
+  "tags": ["token-2022", "devnet"]
+}
